@@ -1,0 +1,184 @@
+#contact a{
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+}
+#contact a:hover{
+    color: rgb(221, 128, 70);
+}
+#contact{
+    background-color: rgb(71, 71, 71);
+    height: 50px;
+}
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.621), rgba(0, 0, 0, 0.625)), url("banner1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#nav_home{
+    background-color: rgb(169, 46, 46);
+    background-size: 100%;
+    background:  rgb(169, 46, 46);
+    color: white;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+
+    background: linear-gradient( to left, rgba(237, 71, 71, 0.686) 50%,rgba(80, 80, 80, 0.878) 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: .5s;
+}
+nav a:hover{
+    color:rgb(255, 255, 255);
+    background-position: right;
+}
+header span{
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+#header_para{
+    margin-top: -20px;
+    color: rgba(224, 224, 224, 0.93);
+}
+header p{
+    margin-top: -10px;
+}
+.modal_input{
+    border-radius: 5px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.input-group>div{
+    padding: 10px;
+    border-radius: 5px;
+}
+.card_label{
+    border-radius: 50%;
+    background-color: rgba(38, 145, 127, 0.899);
+    width: max-content;
+    padding: 10px;
+    margin: auto;
+}
+.card-body{
+    text-align: center;
+}
+.card-body>h5{
+    margin-bottom: -5px;
+}
+.card-body>button{
+    color: white;
+    background-color: rgba(38, 145, 127, 0.899);
+    border: 1px solid rgb(44, 44, 44);
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+.card{
+    margin: 10px 15px;
+}
+      /* FOR CHANGE THE COLOR OF LABEL AND BUTTON AT HOVER.... */
+      
+.card:hover label, .card:hover button{
+    background-color: rgb(192, 74, 74);
+}
+
+.big_icon{
+    width: 30%;
+    display: inline-block;
+    padding: 10% 4%;
+    padding-right: 1%;
+}
+.big_icon_div{
+    width: 70%;
+    display: inline-block;
+    margin: auto;
+   
+}
+.big_icon>span{
+    margin: 0;
+    width: max-content;
+    color: rgb(222, 222, 222);
+    background-color: rgba(85, 85, 85, 0.9);
+    padding: 50px;
+    border-radius: 50%;
+}
+.chooseDomax>h5, .chooseDomax_P{
+margin: 40px 10px;
+}
+.numbers{
+    background-color: rgb(207, 73, 73);
+    padding: 12px;
+    margin: 5px;
+    border-radius: 35%;
+    color: white;
+
+}
+.chooseDomax_div{
+    margin: 100px 20px;
+    background-color: rgba(61, 50, 50, 0.689);
+    text-align: center;
+    width: fit-content;
+}
+.chooseDomax_div>span{
+    font-size: larger;
+    padding: 30px;
+    color: white;
+}
+.chooseDomax_div button{
+    color: rgb(199, 197, 197);
+    padding: 30px;
+    background-color: rgba(53, 41, 41, 0.816);
+    border: none;
+
+}
+.moreAbout_section{
+    text-align: center;
+    padding: 50px;
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.621), rgba(0, 0, 0, 0.625)), url("banner3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.moreAbout_section button{
+    padding: 10px;
+    width: 50px;
+    color: rgb(199, 197, 197);
+    background-color: rgba(114, 42, 42, 0.778);
+    border: none;
+    border-radius: 20%;
+}
+.form{
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+    color: white;
+    background-color: rgb(53, 84, 97);
+}
+.form input{
+    font-size: medium;
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 7px;
+}
+.form button{
+    height: 40px;
+    vertical-align: top;
+    border: none;
+    outline: none;
+}
+footer a{
+    text-decoration: none;
+    font-size: large;
+    color: white;
+}
+footer a:hover{
+    color: rgb(152, 171, 152);
+}
