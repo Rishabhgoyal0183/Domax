@@ -12,5 +12,7 @@ Welcome to the Domax Hosting Website repository! This project is a comprehensive
 
 <h4>Technologies Used</h4>
 <b> HTML:</b> Structure and content of the website.
+<br>
 <b>CSS:</b> Styling and layout of the website.
-<b>JavaScript:</b> Functionality and interactivity.
+<br>
+<b>JavaScript:</b> Functionality and interactivity.<br>
